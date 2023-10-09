@@ -1,1 +1,1 @@
-# SNEYNN
+# SN-EY-NN
