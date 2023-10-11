@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="DELETE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on x_eyan_spt_three_d_spt_demo_table_two</description>
+        <local_or_existing>Local</local_or_existing>
+        <name>x_eyan_spt_three_d_spt_demo_table_two</name>
+        <operation display_value="delete">delete</operation>
+        <script/>
+        <security_attribute/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>sean.patrick.t.tan@gds.ey.com</sys_created_by>
+        <sys_created_on>2023-10-11 09:58:48</sys_created_on>
+        <sys_id>0d435b7d87f571101abbda883cbb35ea</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_eyan_spt_three_d_spt_demo_table_two</sys_name>
+        <sys_package display_value="SPT Three Demo App" source="x_eyan_spt_three_d">83f5581d87f531101abbda883cbb3578</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SPT Three Demo App">83f5581d87f531101abbda883cbb3578</sys_scope>
+        <sys_update_name>sys_security_acl_0d435b7d87f571101abbda883cbb35ea</sys_update_name>
+        <sys_updated_by>sean.patrick.t.tan@gds.ey.com</sys_updated_by>
+        <sys_updated_on>2023-10-11 09:58:48</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="SPT Three Demo App">83f5581d87f531101abbda883cbb3578</application>
+        <file_path/>
+        <instance_id>49c6255adb024cd0b847ac44d49619a3</instance_id>
+        <instance_name>eyadvisorynetherlandsllpdemo2</instance_name>
+        <name>sys_security_acl_0d435b7d87f571101abbda883cbb35ea</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><condition/><description>Default access control on x_eyan_spt_three_d_spt_demo_table_two</description><local_or_existing>Local</local_or_existing><name>x_eyan_spt_three_d_spt_demo_table_two</name><operation display_value="delete">delete</operation><script/><security_attribute/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>sean.patrick.t.tan@gds.ey.com</sys_created_by><sys_created_on>2023-10-11 09:58:48</sys_created_on><sys_id>0d435b7d87f571101abbda883cbb35ea</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_eyan_spt_three_d_spt_demo_table_two</sys_name><sys_package display_value="SPT Three Demo App" source="x_eyan_spt_three_d">83f5581d87f531101abbda883cbb3578</sys_package><sys_policy/><sys_scope display_value="SPT Three Demo App">83f5581d87f531101abbda883cbb3578</sys_scope><sys_update_name>sys_security_acl_0d435b7d87f571101abbda883cbb35ea</sys_update_name><sys_updated_by>sean.patrick.t.tan@gds.ey.com</sys_updated_by><sys_updated_on>2023-10-11 09:58:48</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+        <payload_hash>-4840066</payload_hash>
+        <record_name>x_eyan_spt_three_d_spt_demo_table_two</record_name>
+        <reverted_from/>
+        <source>11011ff987f571101abbda883cbb35c3</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>sean.patrick.t.tan@gds.ey.com</sys_created_by>
+        <sys_created_on>2023-10-11 09:58:50</sys_created_on>
+        <sys_id>1d439b7d87f571101abbda883cbb353a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18b1e2cbb590000001</sys_recorded_at>
+        <sys_updated_by>sean.patrick.t.tan@gds.ey.com</sys_updated_by>
+        <sys_updated_on>2023-10-11 09:58:50</sys_updated_on>
+        <type>Access Control</type>
+        <update_guid>95435b7d43f57110ad9a6f2c7d9049ef</update_guid>
+        <update_guid_history>95435b7d43f57110ad9a6f2c7d9049ef:-4840066</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>sean.patrick.t.tan@gds.ey.com</sys_created_by>
+        <sys_created_on>2023-10-11 09:59:51</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl">sys_security_acl</sys_db_object>
+        <sys_id>0561e8d1ac8247c080c8be57828e1844</sys_id>
+        <sys_metadata>0d435b7d87f571101abbda883cbb35ea</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_eyan_spt_three_d_spt_demo_table_two</sys_name>
+        <sys_package display_value="SPT Three Demo App" source="x_eyan_spt_three_d">83f5581d87f531101abbda883cbb3578</sys_package>
+        <sys_parent display_value="">a1439b7d87f571101abbda883cbb3540</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="SPT Three Demo App">83f5581d87f531101abbda883cbb3578</sys_scope>
+        <sys_scope_delete display_value="">67b7c1db76f44b8288f284cc223c3124</sys_scope_delete>
+        <sys_update_name>sys_security_acl_0d435b7d87f571101abbda883cbb35ea</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_0d435b7d87f571101abbda883cbb35ea">1d439b7d87f571101abbda883cbb353a</sys_update_version>
+        <sys_updated_by>sean.patrick.t.tan@gds.ey.com</sys_updated_by>
+        <sys_updated_on>2023-10-11 09:59:51</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
